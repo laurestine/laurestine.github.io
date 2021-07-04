@@ -1,8 +1,29 @@
 # About Me
 
-I am currently a master's student in the [University of Toronto Department of Linguistics](https://www.linguistics.utoronto.ca/). In September 2021, I will become a Ph. D. student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). At my core I am a math person. In 2020, I completed a bachelor's degree in Mathematics and Philosophy at the University of Toronto. I am casually involved with [Professor Peter Taylor's RabbitMath project](https://www.rabbitmath.ca/), and I work on-and-off both as a math tutor and as a math outreach instructor.
+I am currently a master's student in the [University of Toronto Department of Linguistics](https://www.linguistics.utoronto.ca/). In September 2021, I will become a Ph. D. student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). In 2020, I completed a bachelor's degree in Mathematics and Philosophy at the University of Toronto. I am casually involved with [Professor Peter Taylor's RabbitMath project](https://www.rabbitmath.ca/), and I work on-and-off both as a math tutor and as a math outreach instructor.
+
+Here are some of my broad academic interests:
+
+- _Computational methods in linguistics._
+- _Sociolinguistics_, especially as it relates to game theory and to literature.
+- Detailed semantic fieldwork and its relationship with semantic theory.
+- _Semantic typology._
+- The relationship between language and mathematical cognition.
+- Ethnomathematics and the history of math.
+- _The language of mathematicians._
+- _Exposition and outreach._
+
+I am fascinated with all of these, but not experienced with most of them. I have some small experience with the italicized items.
 
 I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
+
+# Contact
+
+My name is Laurestine Bradford. You are welcome to call me Laurestine. I am also fine with Ms. Bradford. You might hear someone call me by a nickname; that's acceptable, but usually reserved for more casual settings. Please do not call me Laurenstine.
+
+My pronouns are she / her / hers.
+
+My email address is L dot Bradford at mail dot utoronto dot ca.
 
 # This Website
 
