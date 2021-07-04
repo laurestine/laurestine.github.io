@@ -2,7 +2,7 @@
 
 I am currently a master's student in the [University of Toronto Department of Linguistics](https://www.linguistics.utoronto.ca/). In September 2021, I will become a Ph. D. student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). At my core I am a math person. In 2020, I completed a bachelor's degree in Mathematics and Philosophy at the University of Toronto. I am casually involved with [Professor Peter Taylor's RabbitMath project](https://www.rabbitmath.ca/), and I work on-and-off both as a math tutor and as a math outreach instructor.
 
-I also like to crochet and dance, and I am learning to bake and play the ukulele.
+I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
 
 # This Website
 
