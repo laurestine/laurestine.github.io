@@ -24,7 +24,7 @@ I also like to crochet and to dance, and I am learning to bake and to play the u
 
 # This Website
 
-This website is currently under construction. It was last updated on July 4th, 2021. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
+This website is currently under construction. It was last updated on July 5th, 2021. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
 
 <!---
 Here is all of the default content, which I have left in the code for reference.
