@@ -22,7 +22,7 @@ I am fascinated with all of these, but not experienced with most of them. I have
 
 I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
 
-You can find my [contact information here](https://laurest.github.io/contact/).
+You can find my [contact information here](https://laurestine.github.io/contact/).
 
 # This Website
 
