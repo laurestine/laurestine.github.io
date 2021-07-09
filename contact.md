@@ -8,4 +8,4 @@ My name is Laurestine Bradford. You are welcome to call me Laurestine. I am also
 
 My pronouns are she / her / hers.
 
-My email address is L dot Bradford at mail dot utoronto dot ca.
+My email address is Laurestine (dot) Bradford (at) mail (dot) McGill (dot) ca.
