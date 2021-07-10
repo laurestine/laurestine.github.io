@@ -22,8 +22,6 @@ I am fascinated with all of these, but not experienced with most of them. I have
 
 I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
 
-You can find my [contact information here](https://laurestine.github.io/contact/).
-
 # This Website
 
-This website is currently under construction. It was last updated on July 5th, 2021. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
+This website is currently under construction. It was last updated on July 9th, 2021. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
