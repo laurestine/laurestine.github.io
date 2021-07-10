@@ -24,6 +24,15 @@
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <div class="trigger">
+          <!-- put Home and CV first -->
+          {%- assign my_page = site.pages | where: "path", "index.md" | first -%}
+                {%- if my_page.title -%}
+                <a class="btn" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
+          {%- assign my_page = site.pages | where: "path", "cv.md" | first -%}
+                {%- if my_page.title -%}
+                <a class="btn" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
               {% unless my_page.exclude %}
@@ -32,6 +41,15 @@
                 {%- endif -%}
               {% endunless %}
           {%- endfor -%}
+          <!-- put Random and Contact last -->
+          {%- assign my_page = site.pages | where: "path", "random.md" | first -%}
+                {%- if my_page.title -%}
+                <a class="btn" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
+          {%- assign my_page = site.pages | where: "path", "contact.md" | first -%}
+                {%- if my_page.title -%}
+                <a class="btn" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
         </div>
       </nav>
       {% endif %}
