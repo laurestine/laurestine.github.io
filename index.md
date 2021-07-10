@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: default
 title: Home
 ---
 
