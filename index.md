@@ -6,7 +6,7 @@ exclude: true
 
 # About Me
 
-I am a PhD student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). I also work on-and-off both as a math tutor and as a math outreach instructor.
+I am a PhD student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). In my spare time, I work as a math tutor and as a math outreach instructor.
 
 Here are some of my broad academic interests:
 
