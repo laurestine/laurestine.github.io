@@ -9,9 +9,9 @@ I am a member of the [Only Human Dance Collective](https://www.onlyhumandancecol
 
 I crochet a lot, and I'm quite good at it. Some of my proudest original creations are a goose, a large duck, and a small duck coin purse (with its own smaller duck coin purse), all pictured below. It's only a coincidence that they're all waterfowl.
 
-[crocheted goose's head](https://laurestine.github.io/gooseface.jpg) [crocheted goose](https://laurestine.github.io/gooseprofile.jpg)
+![crocheted goose's head](https://laurestine.github.io/gooseface.jpg) ![crocheted goose](https://laurestine.github.io/gooseprofile.jpg)
 
-[crocheted duck](https://laurestine.github.io/duck.jpg) [crocheted duck coin purse](https://laurestine.github.io/duckpurse.jpg)
+![crocheted duck](https://laurestine.github.io/duck.jpg) ![crocheted duck coin purse](https://laurestine.github.io/duckpurse.jpg)
 
 One time I rewrote a Shakespeare sonnet in mathematical notation. The result is [this sonnet, "eyes(mistress) ∩ sun = ∅"](https://laurestine.github.io/sonnet.txt).
 
