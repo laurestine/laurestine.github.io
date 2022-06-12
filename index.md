@@ -17,8 +17,6 @@ Here are some of my broad academic interests:
 - The language of mathematicians.
 - Exposition and outreach.
 
-I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
-
 # This Website
 
 This website is currently under construction. It was last updated on June 12th, 2022. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
