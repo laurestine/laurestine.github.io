@@ -12,7 +12,7 @@ I have served as a Teaching Assistant for the following courses:
 
 - _LIN203 English Words_ at the University of Toronto during the Fall 2020 term. This is a course intended for non-linguistics students to see principles of historical linguistics and learn to look deeper into the English language, as well as learning facts about its history. My responsibilities included leading one 1-hour tutorial per week and marking assignments and tests. The course was taught online through BlackBoard Collaborate.
 
-- _MAT137 Calculus with Proofs_ at the University of Toronto during the 2019-2020 academic year. This is a first-year calculus course with proofs, intended for mathematics, physics, and computer science majors. My responsibilities included leading three 1-hour tutorial per week, working in the Math Learning Centre, and marking assignments and tests using CrowdMark. The course was in person for most of the year, but moved online through Zoom during its final month.
+- _MAT137 Calculus with Proofs_ at the University of Toronto during the 2019-2020 academic year. This is a first-year calculus course with proofs, intended for mathematics, physics, and computer science majors. My responsibilities included leading three 1-hour tutorials per week, working in the Math Learning Centre, and marking assignments and tests using CrowdMark. The course was in person for most of the year, but moved online through Zoom during its final month.
 
 # Outreach
 
