@@ -10,16 +10,12 @@ I am a PhD student at the [McGill University Department of Linguistics](https://
 
 Here are some of my broad academic interests:
 
-- _Computational methods in linguistics._
-- _Sociolinguistics_, especially as it relates to game theory and to literature.
+- Computational methods in linguistics.
+- Language variation and change.
 - Detailed semantic fieldwork and its relationship with semantic theory.
-- _Semantic typology._
 - The relationship between language and mathematical cognition.
-- Ethnomathematics and the history of math.
-- _The language of mathematicians._
-- _Exposition and outreach._
-
-I am fascinated with all of these, but not experienced with most of them. I have some small experience with the italicized items.
+- The language of mathematicians.
+- Exposition and outreach.
 
 I also like to crochet and to dance, and I am learning to bake and to play the ukulele.
 
