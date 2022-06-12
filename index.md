@@ -6,7 +6,7 @@ exclude: true
 
 # About Me
 
-I am currently a master's student in the [University of Toronto Department of Linguistics](https://www.linguistics.utoronto.ca/). In September 2021, I will become a PhD student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). In 2020, I completed a bachelor's degree in Mathematics and Philosophy at the University of Toronto. I am casually involved with [Professor Peter Taylor's RabbitMath project](https://www.rabbitmath.ca/), and I work on-and-off both as a math tutor and as a math outreach instructor.
+I am a PhD student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). I also work on-and-off both as a math tutor and as a math outreach instructor.
 
 Here are some of my broad academic interests:
 
@@ -25,4 +25,4 @@ I also like to crochet and to dance, and I am learning to bake and to play the u
 
 # This Website
 
-This website is currently under construction. It was last updated on July 11th, 2021. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!
+This website is currently under construction. It was last updated on June 12th, 2022. When I have completed it, it will show my academic interests and experience, as well as random things with which I have amused myself. Stay tuned!

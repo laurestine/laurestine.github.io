@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Laurestine Bradford
-description: Master's Student, Linguistics, University of Toronto | Website under construction
+description: PhD Student, Linguistics, McGill University | Website under construction
 
 exclude:
   - README.md
+  - projects.md
