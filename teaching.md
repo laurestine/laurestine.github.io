@@ -24,7 +24,7 @@ I have designed and taught the following long math outreach courses:
 
 I have designed and taught individual one- to three-hour math outreach talks for children (of various ages) on the following topics:
 - _Balanced Ternary_ - a defense of balanced ternary notation as a more elegant way to represent the entirety of the number line.
-- _Infinities_ - The meanings and sizes of infinity, with an emphasis on cardinality and bijections, but touching on projective space as well.
+- _Infinities_ - the meanings and sizes of infinity, with an emphasis on cardinality and bijections, but touching on projective space as well.
 - _Introduction to Game Theory_ - including the formal definition of a game, connections to other disciplines, and Nash equilibria.
 - _Introduction to P-Values_ - introducing the idea that a scientific hypothesis should be one under which the data are probable, using anecdotes and counting principles.
 - _Introduction to Topology_ - introducing the ideas of connectivity and homotopy using shapes, puzzles, and Pac-Man.
