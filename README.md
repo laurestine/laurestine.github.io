@@ -1,4 +1,8 @@
-This is the repository for my personal webpage. Here is a bunch of markdown reference.
+This is the repository for my personal webpage.
+
+I don't know why, but I need each page to have at least two separate paragraphs of body text, or the alignment goes weird between different pages. So that's good to know.
+
+Here is a bunch of markdown reference.
 
 <!---
 this is commented out
