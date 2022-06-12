@@ -7,7 +7,7 @@ exclude: true
 
 I am a member of the [Only Human Dance Collective](https://www.onlyhumandancecollective.com/).
 
-I crochet a lot, and I'm quite good at it. Some of my proudest original creations are a goose, a large duck, and a small duck coin purse (with smaller duck coin purse inside), all pictured below. It's only a coincidence that they're all waterfowl.
+I crochet a lot, and I'm quite good at it. Some of my proudest original creations are a goose, a large duck, and a small duck coin purse (with its own smaller duck coin purse), all pictured below. It's only a coincidence that they're all waterfowl.
 
 [crocheted goose's head](https://laurestine.github.io/gooseface.jpg) [crocheted goose](https://laurestine.github.io/gooseprofile.jpg)
 
