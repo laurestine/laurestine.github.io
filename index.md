@@ -15,9 +15,7 @@ Here are some of my broad academic interests:
 - Detailed semantic fieldwork and its relationship with semantic theory.
 - The relationship between language and mathematical cognition.
 - The language of mathematicians.
-- Exposition and outreach.</td>
-  </tr>
-</table>
+- Exposition and outreach.
  
 I am currently working with [Professor Siva Reddy](https://sivareddy.in/) on a project searching for a systematic, language-general correspondence between [Universal Dependencies](https://universaldependencies.org/) syntactic structures and ungrounded meaning representations.
 
