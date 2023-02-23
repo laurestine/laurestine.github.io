@@ -6,6 +6,8 @@ exclude: true
 
 # About Me
 
+<img src="https://laurestine.github.io/fall2022headshot.jpg" height="300" alt = "A headshot of Laurestine Bradford in the fall of 2022"/>
+
 I am a PhD student at the [McGill University Department of Linguistics](https://www.mcgill.ca/linguistics/). In my spare time, I work as a math tutor and as a math outreach instructor.
 
 Here are some of my broad academic interests:
