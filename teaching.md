@@ -8,6 +8,8 @@ permalink: /teaching/
 
 I have served as a Teaching Assistant for the following courses:
 
+- _LING330 Phonetics_ at McGill University during the Winter 2023 term. This is a course for linguistics students to learn transcription (with the International Phonetic Alphabet), identification, and production of speech sounds, acoustic analysis of speech (in Praat), and auditory phonetics. My responsibilities included leading two 1-hour conferences per week and marking transcription assignments, labs, and the final exam. The class was taught in person with online submission of most assignments.
+
 - _LIN200 Introduction to Language_ at the University of Toronto during the Winter 2021 term. This is a course intended for non-linguistics students to see the basics of a variety of linguistic subfields, learn to apply basic principles of investigation, and become able to respond to myths. My responsibilities included leading one 1-hour tutorial per week and marking writing assignments and tests. The course was taught online through BlackBoard Collaborate.
 
 - _LIN203 English Words_ at the University of Toronto during the Fall 2020 term. This is a course intended for non-linguistics students to see principles of historical linguistics and learn to look deeper into the English language, as well as learning facts about its history. My responsibilities included leading one 1-hour tutorial per week and marking assignments and tests. The course was taught online through BlackBoard Collaborate.
