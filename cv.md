@@ -7,4 +7,4 @@ exclude: true
 
 Here is [a link to my CV in pdf format](https://laurestine.github.io/LBradfordCV.pdf).
 
-This CV was last updated on June 12th, 2022.
+This CV was last updated on February 23rd, 2023.
