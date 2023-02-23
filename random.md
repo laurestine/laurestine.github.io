@@ -19,7 +19,7 @@ One time I made a spreadsheet detailing how the three sung parts of "A Man's Got
 
 One time I imagined what names for city driving paths would be like if we expanded their abbreviations incorrectly. The result is [this decomposition and recombination of pieces of words](https://laurestine.github.io/st-reet.html).
 
-I sometimes make sweet things to eat. Did you know you can make ice cream using only a large bowl, a medium metal bowl, and a hand mixer? I learned that from [this video ice-cream recipe](https://www.youtube.com/watch?v=p-SikBqk2PM). I also really enjoy [this recipe for chocolate chip cookies](https://web.archive.org/web/20220611005353/https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies).
+I sometimes make sweet things to eat. Did you know you can make ice cream using only a large bowl, a medium metal bowl, and a hand mixer? I learned that from [this ice-cream recipe](https://web.archive.org/web/20180731070331/https://www.thekitchn.com/how-to-make-ice-cream-without-124210). I also really enjoy [this recipe for chocolate chip cookies](https://web.archive.org/web/20220611005353/https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies).
 
 I really like the webcomics [Paranatural](https://www.paranatural.net/), [Cucumber Quest](http://cucumber.gigidigi.com/), and [Soul to Call](https://soultocall.com/).
 
