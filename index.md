@@ -19,4 +19,4 @@ Here are some of my broad academic interests:
 
 I am currently working with [Professor Siva Reddy](https://sivareddy.in/) on a project searching for a systematic, language-general correspondence between [Universal Dependencies](https://universaldependencies.org/) syntactic structures and ungrounded meaning representations.
 
-This website was last updated on July 11th, 2022.
+This website was last updated on February 23rd, 2023.
