@@ -13,7 +13,6 @@ Here are some of my broad academic interests:
 - Computational methods in linguistics.
 - Language variation and change.
 - Detailed semantic fieldwork and its relationship with semantic theory.
-- The relationship between language and mathematical cognition.
 - The language of mathematicians.
 - Exposition and outreach.
  
