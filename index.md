@@ -11,11 +11,10 @@ exclude: true
 Here are some of my broad academic interests:
 
 - Computational methods in linguistics.
-- Language variation and change.
 - Detailed semantic fieldwork and its relationship with semantic theory.
 - The language of mathematicians.
 - Exposition and outreach.
  
-I am currently working with [Professor Siva Reddy](https://sivareddy.in/) on a project searching for a systematic, language-general correspondence between [Universal Dependencies](https://universaldependencies.org/) syntactic structures and ungrounded meaning representations.
+I am currently working with Professor James Crippen and Professor Bernhard Schwarz on a project investigating the meaning of pluractional morphology in Tlingit.
 
-This website was last updated on February 23rd, 2023.
+This website was last updated on April 6th, 2024.
