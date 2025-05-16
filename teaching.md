@@ -20,6 +20,12 @@ I have served as a Teaching Assistant for the following courses:
 
 # Outreach
 
+I have given the following linguistics outreach presentations:
+
+- _Grammar, Or, How I Learned to Stop Worrying and Love Language Variation_ at [Toronto Oasis]{https://torontooasis.org/} in the spring of 2025. I designed this course to encourage an audience of interested adults to become fascinated with the empirical rules of language and a descriptivist approach to language variation.
+
+- _What is linguistics?_ with Massimo Lipari in the spring of 2025. We were invited to give this talk to a class of graduating CEGEP students to showcase interesting results from a variety of linguistic subfields and clarify what a linguistics undergraduate degree consists of.
+
 I have designed and taught the following long math outreach courses:
 
 - _Doodling Mathematically!_ through the [University of Toronto MathPlus program](https://mathplus.math.utoronto.ca/) in the summer of 2020. I designed this course to teach middle-school-aged children to create their own casual games with a mathematical flavor, thereby creating mathematical puzzles for themselves. It met online through Zoom for three hours per week for four weeks, and I managed it through Google Classroom.
