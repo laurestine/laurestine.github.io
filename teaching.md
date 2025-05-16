@@ -22,7 +22,7 @@ I have served as a Teaching Assistant for the following courses:
 
 I have given the following linguistics outreach presentations:
 
-- _Grammar, Or, How I Learned to Stop Worrying and Love Language Variation_ at [Toronto Oasis]{https://torontooasis.org/} in the spring of 2025. I designed this course to encourage an audience of interested adults to become fascinated with the empirical rules of language and a descriptivist approach to language variation.
+- _Grammar, Or, How I Learned to Stop Worrying and Love Language Variation_ at [Toronto Oasis](https://torontooasis.org/) in the spring of 2025. I designed this course to encourage an audience of interested adults to become fascinated with the empirical rules of language and a descriptivist approach to language variation.
 
 - _What is linguistics?_ with Massimo Lipari in the spring of 2025. We were invited to give this talk to a class of graduating CEGEP students to showcase interesting results from a variety of linguistic subfields and clarify what a linguistics undergraduate degree consists of.
 

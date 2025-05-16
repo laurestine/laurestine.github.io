@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 github: [metadata]
 title: Laurestine Bradford
-description: PhD Student, Linguistics, McGill University
+description: PhD Candidate, Linguistics, McGill University
 
 exclude:
   - README.md
