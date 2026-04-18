@@ -10,11 +10,11 @@ exclude: true
 
 Here are some of my broad academic interests:
 
-- Computational methods in linguistics.
 - Detailed semantic fieldwork and its relationship with semantic theory.
-- The language of mathematicians.
+- Semantic variation and change.
+- Computational methods in linguistics.
 - Exposition and outreach.
  
-I am currently working to profile the aspectual classes of Tlingit. My supervision committee consists of James Crippen, Luis Alonso-Ovalle, Morgan Sonderegger, and Seth Cable.
+I am currently working to profile the aspectual classes of Tlingit. My work relates to culmination, scalarity, pluractionality, and agentivity. My supervision committee consists of James Crippen, Luis Alonso-Ovalle, Morgan Sonderegger, and Seth Cable.
 
-This website was last updated on May 15th, 2025.
+This website was last updated on April 18th, 2026.

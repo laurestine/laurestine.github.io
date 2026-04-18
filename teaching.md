@@ -4,6 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
+# Instructing
+
+I have worked as an instructor (and course supervisor) for the following courses:
+
+ - _LING330 Phonetics_ at McGill University during the Winter 2026 term. This is a course for linguistics students to learn transcription (with the International Phonetic Alphabet), identification, and production of speech sounds, acoustic analysis of speech (in Praat), and auditory phonetics. I created original assignments, conducted every lecture, monitored course admin, and supervised one teaching assistant and one grader.
+
+ - _LING445 Computational Linguistics_ at McGill University during the Fall 2025 term. This course is an introduction to computational models of language with a focus on in-depth understanding of a few foundational models and methods of probabilistic inference. We followed the textbook [Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/). I created original slides for every lecture to explain the material, conducted every lecture, monitored course admin, and supervised three teaching assistants.
+
 # TAships
 
 I have served as a Teaching Assistant for the following courses:
