@@ -6,7 +6,7 @@ permalink: /supervision/
 
 # Undergraduate Research Project Mentorship
 
-In Winter 2025, I supervised an independent study project by Fiona Smith. She investigated the sequencing of imperfective and perfective aspect in a corpus of oral literature in Tlingit, comparing different speakers' speech styles. I taught her in detail about structure of Tlingit verbs and sentences. I also assigned readings and literature review tasks to allow her to gain a multifaceted understanding of imperfectivity. I met with her weekly to provide feedback and advice, and then I graded her final paper.
+In Winter 2025, I supervised an independent study project by Fiona Smith. She investigated the sequencing of imperfective and perfective aspect in a corpus of oral literature in Tlingit, comparing different speakers' literary styles. I taught her in detail about the structure of Tlingit verbs and sentences. I also assigned readings and literature review tasks to allow her to gain a multifaceted understanding of imperfectivity. I met with her weekly to provide feedback and advice, and I graded her final paper at the end of the semester.
 
 # Involving Undergraduates in Research
 
@@ -14,7 +14,7 @@ Since Winter 2026, I have been supervising six undergraduate research assistants
 
 - Fiona Smith is developing a set of robust part-of-speech tagging guidelines for a Tlingit corpus, designed to be usable by non-experts in Tlingit. I hold biweekly meetings with her to discuss refinements to the guidelines.
 
-- Jasmine Cloutier-Fournier and Lydia Lepki are applying the part-of-speech tagging guidelines to tag a Tlingit corpus. Over the course of a semester, I have trained them in Tlingit sentence structure and key morphological patterns. I also developed a workflow for them to verify each other's work. I distill any mistakes into suggestions to improve the guidelines.
+- Jasmine Cloutier-Fournier and Lydia Lepki are applying the part-of-speech tagging guidelines to tag a Tlingit corpus. Over the course of a semester, I have trained them in Tlingit sentence structure and key morphological patterns. I have also developed a workflow for them to verify each other's work. I distill any mistakes into suggestions to improve the guidelines.
 
 - Mona Liu is developing a Tlingit verb lemmatizing program. I have taught her the patterns of Tlingit verbs' morphological and phonological structure and I regularly evaluate her work.
 
