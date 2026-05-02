@@ -2,6 +2,7 @@
 layouts: page
 title: Papers
 permalink: /papers/
+description: Laurestine Bradford
 ---
 
 I will present my current work [SULA-TripleA 2026](https://blogs.ubc.ca/sulatriplea/call-for-papers/) at the University of British Columbia in May, [NAMED 2026](https://named26.wordpress.com/) at the University of Québec Trois-Rivières in May, at the Toronto-Ottawa-Montreal Semantics Workshop at the Université de Montréal in May, and [CLA 2026](https://cla-acl.ca/programmes/congres-de-2026-meeting.html) at the University of Calgary in June.
