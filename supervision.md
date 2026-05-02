@@ -6,7 +6,7 @@ permalink: /supervision/
 
 # Undergraduate Research Project Mentorship
 
-In Winter 2025, I supervised an independent study project by Fiona Smith. She investigated the sequencing of imperfective and perfective aspect in a corpus of oral literature in Tlingit, comparing different speakers' speech styles. I taught her in detail about structure of Tlingit verbs and sentences. I also assigned readings to allowe her to gain a variety of understandings of imperfectivity. I met with her weekly to provide feedback and advice, and then I graded her final paper.
+In Winter 2025, I supervised an independent study project by Fiona Smith. She investigated the sequencing of imperfective and perfective aspect in a corpus of oral literature in Tlingit, comparing different speakers' speech styles. I taught her in detail about structure of Tlingit verbs and sentences. I also assigned readings and literature review tasks to allow her to gain a multifaceted understanding of imperfectivity. I met with her weekly to provide feedback and advice, and then I graded her final paper.
 
 # Involving Undergraduates in Research
 
