@@ -17,4 +17,4 @@ Here are some of my broad academic interests:
  
 I am currently working to profile the aspectual classes of Tlingit. My work relates to culmination, scalarity, pluractionality, and agentivity. My supervision committee consists of James Crippen, Luis Alonso-Ovalle, Morgan Sonderegger, and Seth Cable.
 
-This website was last updated on April 18th, 2026.
+This website was last updated on May 1st, 2026.
